@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MITdesarrollo from Argentina 💙💛💙 !
+- 👋 Hi, I’m @Mariel Torres from Argentina 💙💛💙 !
 I am a programming student 🤓📚, focusing on the front-end for web development.
 I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! 🐱💗
 
