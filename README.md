@@ -7,7 +7,7 @@
 
 ## My Stack :hammer_and_wrench:
 
-![](https://i.imgur.com/wBnN8gF.png =x30)![](https://i.imgur.com/GDHLCHb.png =x30)![](https://i.imgur.com/6Klokwf.png =x30)![](https://i.imgur.com/HcCBFoG.png =x30)![](https://i.imgur.com/YhXjdce.png =x30)![](https://i.imgur.com/5pKuvXv.png =x30)![](https://i.imgur.com/2xh2Hu0.jpg =x30)![](https://i.imgur.com/Zt1NB13.png =x30)![](https://i.imgur.com/rcoS9zy.png =x30)![](https://i.imgur.com/H64e9VR.png =x30)
+![](https://i.imgur.com/wBnN8gF.png)![](https://i.imgur.com/GDHLCHb.png =x30)![](https://i.imgur.com/6Klokwf.png =x30)![](https://i.imgur.com/HcCBFoG.png =x30)![](https://i.imgur.com/YhXjdce.png =x30)![](https://i.imgur.com/5pKuvXv.png =x30)![](https://i.imgur.com/2xh2Hu0.jpg =x30)![](https://i.imgur.com/Zt1NB13.png =x30)![](https://i.imgur.com/rcoS9zy.png =x30)![](https://i.imgur.com/H64e9VR.png =x30)
 
 ## Connect with Me :writing_hand:
 [![](https://i.imgur.com/3U9grMO.png =x50)](https://www.linkedin.com/in/mariel-torres-front-end/)  [![](https://i.imgur.com/h6w2VXU.png =x50)](https://github.com/MITdesarrollo)
