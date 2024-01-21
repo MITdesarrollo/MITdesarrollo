@@ -2,11 +2,11 @@
 ## About me :woman:
 
 ### I am a programming student 🤓📚, focusing on the front-end for web development.
-### I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! 🐱💗
+### I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />
 ### Ask me what you want, for work, projects or any subject in which you think I can help you! :calling: :mailbox_with_no_mail:
 
 ## My Stack :hammer_and_wrench:
-HTML - CSS - SASS - TYPESCRIPT - JAVASCRIPT - ANGULAR - BOOSTRAP - MATERIAL - JAVA INICIAL - FIGMA - INSKAPE
+HTML - CSS - SASS - TYPESCRIPT - JAVASCRIPT - REACT - BOOSTRAP - MATERIAL - NEXT JS - FIGMA - TAILWIND - ATOMIC DESIGN - DESIGN THINKING - SCRUM
 <!-- ![](https://i.imgur.com/wBnN8gF.png)![](https://i.imgur.com/GDHLCHb.png)![](https://i.imgur.com/6Klokwf.png)![](https://i.imgur.com/HcCBFoG.png)![](https://i.imgur.com/YhXjdce.png)![](https://i.imgur.com/5pKuvXv.png)![](https://i.imgur.com/2xh2Hu0.jpg)![](https://i.imgur.com/Zt1NB13.png)![](https://i.imgur.com/rcoS9zy.png)![](https://i.imgur.com/H64e9VR.png) -->
 
 ## Connect with Me :writing_hand:
