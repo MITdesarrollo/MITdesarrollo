@@ -15,8 +15,12 @@ HTML - CSS - SASS - TYPESCRIPT - JAVASCRIPT - REACT - BOOSTRAP - MATERIAL - NEXT
 <!-- ![](https://i.imgur.com/wBnN8gF.png)![](https://i.imgur.com/GDHLCHb.png)![](https://i.imgur.com/6Klokwf.png)![](https://i.imgur.com/HcCBFoG.png)![](https://i.imgur.com/YhXjdce.png)![](https://i.imgur.com/5pKuvXv.png)![](https://i.imgur.com/2xh2Hu0.jpg)![](https://i.imgur.com/Zt1NB13.png)![](https://i.imgur.com/rcoS9zy.png)![](https://i.imgur.com/H64e9VR.png) -->
 
 ## Connect with Me :writing_hand:
-Linkedin : https://www.linkedin.com/in/mariel-torres-front-end/
-Email: marieltorres97@gmail.com
+![ https://www.linkedin.com/in/mariel-torres-front-end/](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/d1e01154-e4a4-4f54-8c53-66955638fe48)
+
+ ![Búho#8669](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/523a26e8-6019-402b-a364-d5836e25acc8)
+
+ marieltorres97@gmail.com
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" />
 <!-- [![](https://i.imgur.com/3U9grMO.png)](https://www.linkedin.com/in/mariel-torres-front-end/)  [![](https://i.imgur.com/h6w2VXU.png)](https://github.com/MITdesarrollo) -->
 
 <!---
