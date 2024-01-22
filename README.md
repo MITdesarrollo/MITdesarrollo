@@ -1,12 +1,12 @@
 ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/5efd1755-9fc1-49d4-b33a-c8e17b3d8a2d)
 
 
-# Hi, I’m @Mariel Torres from Argentina :blue_heart::yellow_heart::blue_heart:
-## About me :woman:
-![octocat-1705881665784](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/2b41de1c-73e0-4c60-8c12-75adc9a8bf1d)
+https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/ba00be2f-26d4-4799-ae1e-c68bcb3fef5c
 
+## About me :woman:
 
 ### I am a programming student 🤓📚, focusing on the front-end for web development.
+![216649417-9acc58df-9186-4132-ad43-819a57babb67](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/e3a97168-c8cf-4e2b-aff8-482596b9f53d)
 ### I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />
 ### Ask me what you want, for work, projects or any subject in which you think I can help you! :calling: :mailbox_with_no_mail:
 
