@@ -1,3 +1,6 @@
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/5efd1755-9fc1-49d4-b33a-c8e17b3d8a2d)
+
+
 # Hi, I’m @Mariel Torres from Argentina :blue_heart::yellow_heart::blue_heart:
 ## About me :woman:
 ![octocat-1705881665784](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/2b41de1c-73e0-4c60-8c12-75adc9a8bf1d)
