@@ -1,5 +1,7 @@
 # Hi, I’m @Mariel Torres from Argentina :blue_heart::yellow_heart::blue_heart:
 ## About me :woman:
+![octocat-1705881665784](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/2b41de1c-73e0-4c60-8c12-75adc9a8bf1d)
+
 
 ### I am a programming student 🤓📚, focusing on the front-end for web development.
 ### I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />
