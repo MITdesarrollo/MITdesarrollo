@@ -1,31 +1,64 @@
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/5efd1755-9fc1-49d4-b33a-c8e17b3d8a2d)
+
+<!-- RAINBOW LINE TOP -->
+<div align="center">
+
+  ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/5efd1755-9fc1-49d4-b33a-c8e17b3d8a2d)
+</div>
+
+<div align="center">
+  <img  src="https://res.cloudinary.com/dets0trss/image/upload/v1709053202/Navy_Illustrated_3D_Offline_Twitch_Banner_2_e885r0.png"
+       alt="banner" /></a>
+</div>
+
+<div>
+ 
+  ##  About Me <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 📚   I am a programming student focusing on the front-end for web development
+   <br>
+   I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! 🤓
+   
+- ⚡ passionate about exploring and applying various technologies with a focus on UI Design for Users 💻
+  <br>
+
+</div>
+<div>
+
+  ## 🛠️ &nbsp;My Tech Stacks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitbootstrap,css,discord,github,html,idea,js,linux,materialui,nextjs,nodejs,postman,astro,solidjs,react,sass,tailwind,ts,vscode&perline=14" />
+  </a>
+  
+</p>
+</div>
+<div>
+  
+  ## 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<br>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+- 🌐  I enjoy collaborating with teams, solving problems, and tackling new challenges. If you are looking for someone passionate and dedicated, feel free to contact me!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mariel-torres-front-end/" target="blank"><img align="center" src="https://img.shields.io/badge/MAriel Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
+<a href="mailto:marieltorres97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/marieltorres97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;      
+</p>
+  
+</div>
+<br>
+
+### Thanks for visiting my profile!
+
+<br>
 
 
-https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/ba00be2f-26d4-4799-ae1e-c68bcb3fef5c
+Last Edited on: 27/02/2024
 
-## About me :woman:
+<!-- RAINBOW LINE button -->
+<div align="center">
 
-### I am a programming student 🤓📚, focusing on the front-end for web development.
-![216649417-9acc58df-9186-4132-ad43-819a57babb67](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/e3a97168-c8cf-4e2b-aff8-482596b9f53d)
-### I am a lover of design and drawing 🖌✏💻❣, and I love animals but even more so cats! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />
-### Ask me what you want, for work, projects or any subject in which you think I can help you! :calling: :mailbox_with_no_mail:
-
-## My Stack :hammer_and_wrench:
-HTML - CSS - SASS - TYPESCRIPT - JAVASCRIPT - REACT - BOOSTRAP - MATERIAL - NEXT JS - FIGMA - TAILWIND - ATOMIC DESIGN - DESIGN THINKING - SCRUM
-<!-- ![](https://i.imgur.com/wBnN8gF.png)![](https://i.imgur.com/GDHLCHb.png)![](https://i.imgur.com/6Klokwf.png)![](https://i.imgur.com/HcCBFoG.png)![](https://i.imgur.com/YhXjdce.png)![](https://i.imgur.com/5pKuvXv.png)![](https://i.imgur.com/2xh2Hu0.jpg)![](https://i.imgur.com/Zt1NB13.png)![](https://i.imgur.com/rcoS9zy.png)![](https://i.imgur.com/H64e9VR.png) -->
-
-## Connect with Me :writing_hand:
-# Linkedn
-https://www.linkedin.com/in/mariel-torres-front-end/
-# Discord
-Búho#8669
-
-# Email
- marieltorres97@gmail.com
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" />
-<!-- [![](https://i.imgur.com/3U9grMO.png)](https://www.linkedin.com/in/mariel-torres-front-end/)  [![](https://i.imgur.com/h6w2VXU.png)](https://github.com/MITdesarrollo) -->
-
-<!---
-MITdesarrollo/MITdesarrollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/MITdesarrollo/MITdesarrollo/assets/108035224/5efd1755-9fc1-49d4-b33a-c8e17b3d8a2d)
+</div>
