@@ -39,7 +39,7 @@
   <br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 <br>
-## <b> Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 - 🌐  I enjoy collaborating with teams, solving problems, and tackling new challenges. If you are looking for someone passionate and dedicated, feel free to contact me!
 
