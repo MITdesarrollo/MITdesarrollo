@@ -23,6 +23,9 @@
   <br>
 
 </div>
+<br>
+<br>
+<br>
 <div>
 
   ## 🛠️ &nbsp;My Tech Stacks
@@ -38,6 +41,9 @@
   ##  😜Here's a Joke for you:
   <br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+<br>
+<br>
+<br>
 <br>
 
  ## Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
