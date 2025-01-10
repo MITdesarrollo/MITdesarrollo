@@ -9,10 +9,15 @@
   <img  src="https://res.cloudinary.com/dets0trss/image/upload/v1709053202/Navy_Illustrated_3D_Offline_Twitch_Banner_2_e885r0.png"
        alt="banner" /></a>
 </div>
-
 <div>
- 
-  ##  About Me <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+  
+  ##  About Me
+  
+ <div align="center">
+  
+   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47mzno46xhkeo0avlhk8a69gkh4d6k0loq4d5thoy2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ </div>
+   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 📚   I am a programming student focusing on the front-end for web development
